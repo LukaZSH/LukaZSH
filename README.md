@@ -25,7 +25,7 @@
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools</h2>
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,py,c,vscode,bash,linux,arch,docker,kubernetes,githubactions,prometheus,grafana,aws,googlecloud,azure,mongodb,postman,figma"/>
+<img src="https://skillicons.dev/icons?i=java,py,c,js,vscode,bash,linux,arch,docker,kubernetes,githubactions,prometheus,grafana,aws,googlecloud,azure,mongodb,postman,figma"/>
 
 
 <!-- Stats -->
