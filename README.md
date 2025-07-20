@@ -18,7 +18,6 @@
 <h2 align="left">About me</h2>
 
 - Computer Science Student at State University Of Paraná :blue_book:
-- BTW I Use Arch :stuck_out_tongue_winking_eye:
 - I listen to more than 10 music genres :musical_note:
 - Gearhead :car:
 
