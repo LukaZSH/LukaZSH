@@ -1,25 +1,26 @@
 <!-- Intro  -->
-<h3 align="center">
+<h1 align="center">
         <samp>&gt; Hello!, I am
                 <b><a target="_blank">Luka</a></b>
         </samp>
-</h3>
+</h1>
 
+<h2>
 <p align="center"> 
   <samp>
-    「 I am an aspiring and student in the field of DevOps! <b>Brazil</b> 」
+    「 I am a DevOps Engineer Jr! <b>Brazil</b> 」
     <br>
     <a href="https://soundcloud.com/paulista_do_evo_vii/sets/tipo-isso-tlgd">「 How to know me through to the music?! 」</a>
   </samp>
 </p>
-
+</h2>
 
 <!-- About me -->
 <h2 align="left">About me</h2>
 
-- Computer Science Student at State University Of Paraná :blue_book:
+- Graduated in Computer Science at State University Of Paraná :blue_book:
 - I listen to more than 10 music genres :musical_note:
-- Gearhead :car:
+- I really like JDM cars. :car: 🇯🇵
 
 <!-- Languages and Tools -->
 <h2 align="left">Languages and Tools</h2>
