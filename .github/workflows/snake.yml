@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Pipeline de CI - Cobrinha que come Commits
 
 on:
   schedule:
@@ -12,7 +12,7 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v3
 
-      - name: Generate Snake
+      - name: Cobrinha que come Commits
         uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
