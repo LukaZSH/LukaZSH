@@ -15,7 +15,7 @@
 </p>
 </h2>
 
-<h2 align="left">🧑🏻‍💻 About me</h2>
+<h2 align="left">🙋🏻‍♂️ About me</h2>
 
  - ### Graduated in Computer Science at State University Of Paraná 🎓📘
  - ### I use Arch BTW 😆 (contains irony)
