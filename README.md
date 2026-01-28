@@ -15,17 +15,30 @@
 </p>
 </h2>
 
-<!-- About me -->
 <h2 align="left">About me</h2>
 
-- Graduated in Computer Science at State University Of Paraná :blue_book:
-- I listen to more than 10 music genres :musical_note:
-- I really like JDM cars. :car: 🇯🇵
+- Graduated in Computer Science at State University Of Paraná 🎓📘
+- I listen to more than 10 music genres 🎶
+- I really like JDM cars 🏎️
 
-<!-- Languages and Tools -->
-<h2 align="left">Languages and Tools</h2>
-<a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=java,py,c,js,vscode,bash,linux,arch,docker,kubernetes,githubactions,prometheus,grafana,aws,googlecloud,azure,mongodb,postman,figma"/>
+
+## 🛠️ Tech Stack
+
+| ☁️ Cloud | 🐳 Containers | ⚙️ IaC (Infrastructure as Code) |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=aws,azure,gcp" /> | <img src="https://skillicons.dev/icons?i=docker,kubernetes" /> | <img src="https://skillicons.dev/icons?i=terraform,ansible" /> |
+
+| 🔄 CI/CD & GitOps | 📊 Observability | 💻 Languages |
+| :---: | :---: | :---: |
+| <img src="https://skillicons.dev/icons?i=githubactions,gitlab,jenkins,git" /> | <img src="https://skillicons.dev/icons?i=prometheus,grafana" /> | <img src="https://skillicons.dev/icons?i=bash,py,java,go" /> |
+
+
+## 🎓 Certifications
+<p align="left">
+  <img src="https://github.com/user-attachments/assets/36b235c9-095d-49b9-9af5-702329d5412e" width="120" alt="Linux Essentials" />
+  <img src="https://github.com/user-attachments/assets/67f8166a-445b-4d74-982f-3702914b98db" width="120" alt="AWS Cloud Practitioner" />
+  <img src="https://github.com/user-attachments/assets/662c8536-0d67-47fc-9722-a6cb24505ccb" width="150" alt="OCI Foundations" />
+</p>
 
 
 <!-- Stats -->
@@ -38,6 +51,7 @@
   <br/>
 </a>
 <br/>
+
 
 <!-- Medias -->
 <h2>Where to find me?</h2>
