@@ -17,9 +17,9 @@
 
 <h2 align="left">About me</h2>
 
-- Graduated in Computer Science at State University Of Paraná 🎓📘
-- I listen to more than 10 music genres 🎶
-- I really like JDM cars 🏎️
+ - ### Graduated in Computer Science at State University Of Paraná 🎓📘
+ - ### I listen to more than 10 music genres 🎶
+-  ### I really like JDM cars 🏎️
 
 
 ## 🛠️ Tech Stack
