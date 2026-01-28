@@ -8,17 +8,17 @@
 <h2>
 <p align="center"> 
   <samp>
-    「 I am a DevOps Engineer Jr! <b>Brazil</b> 」
+    「 DevOps Engineer Jr 🧑🏻‍💻 」
     <br>
-    <a href="https://soundcloud.com/paulista_do_evo_vii/sets/tipo-isso-tlgd">「 How to know me through to the music?! 」</a>
+    「 📍 São Paulo, Brazil 」
   </samp>
 </p>
 </h2>
 
-<h2 align="left">About me</h2>
+<h2 align="left">🧑🏻‍💻 About me</h2>
 
  - ### Graduated in Computer Science at State University Of Paraná 🎓📘
- - ### I listen to more than 10 music genres 🎶
+ - ### I use Arch BTW 😆 (contains irony)
 -  ### I really like JDM cars 🏎️
 
 
@@ -42,7 +42,7 @@
 
 
 <!-- Stats -->
-<h2>Stats</h2>
+## 📊 Stats
 
 <a> 
     <a href="https://github.com/LukaZSH"><img src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LukaZSH&show_icons=true&count_private=true&theme=react&border_color=7F3FBF&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" height="192px" width="49.5%"/></a>
@@ -51,6 +51,21 @@
   <br/>
 </a>
 <br/>
+
+## 🐍 Snake Contribution Graph
+
+![github contribution grid snake animation](https://raw.githubusercontent.com/LukaZSH/LukaZSH/output/github-contribution-grid-snake-dark.svg)
+
+<h2 align="left">🎵 What I'm listening today? </h2>
+
+<p align="left">
+  <samp>
+    <br><br>
+    <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=luk630&redirect=true">
+      <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=luk630&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=true&profanity=false&mode=dark&bar_color=53b14f&bar_color_cover=false" width="400px" />
+    </a>
+  </samp>
+</p>
 
 
 <!-- Medias -->
