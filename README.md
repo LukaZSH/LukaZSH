@@ -8,7 +8,7 @@
 <h2>
 <p align="center"> 
   <samp>
-    「 DevOps Engineer Jr 🧑🏻‍💻 @ NFQ 」
+    「 DevOps Engineer 🧑🏻‍💻 @ NFQ 」
     <br>
     「 📍 São Paulo, Brazil 」
   </samp>
