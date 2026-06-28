@@ -37,6 +37,7 @@
 <p align="left">
   <img src="https://github.com/user-attachments/assets/36b235c9-095d-49b9-9af5-702329d5412e" width="120" alt="Linux Essentials" />
   <img src="https://github.com/user-attachments/assets/67f8166a-445b-4d74-982f-3702914b98db" width="120" alt="AWS Cloud Practitioner" />
+  <img src="https://github.com/user-attachments/assets/ae220f7c-6d5e-4d84-b54a-4a295af59586" width="120" alt="AWS AI Practitioner" />
   <img src="https://github.com/user-attachments/assets/662c8536-0d67-47fc-9722-a6cb24505ccb" width="150" alt="OCI Foundations" />
 </p>
 
